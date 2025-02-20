@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c1633e65b2cd5489ab2191d1cc2c6d, type: 3}
+  m_Name: AnnumSettings
+  m_EditorClassIdentifier: 
+  DayMinutesLength: 1
+  DefaultDate:
+    Year: 2025
+    Month: 6
+    Day: 12
+    Hour: 10
+  seasonsConfigs:
+  - {fileID: 11400000, guid: 2216f673fa7eb4d4f951cad225d4f1c2, type: 2}
